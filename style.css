@@ -67,7 +67,7 @@ body{
     letter-spacing: 3px;
     color: hsl(228, 12%, 48%);
     font-weight: 400;
-    margin-top: 10px;
+    margin-top: 15px;
     margin-bottom: 15px;
     margin-left: 10px;
     
@@ -77,14 +77,14 @@ body{
 .head{
    
     width: 210px;
-    margin-top: 10px;
+    margin-top: 15px;
     margin-bottom: 15px;
     margin-left: 10px;
 }
 .para-two {
     /* width: 250px; */
    margin-bottom: 15px;
-    margin-top: 10px;
+    margin-top: 15px;
     color: hsl(228, 12%, 48%);
     font-weight:400;
     margin-left: 10px;
@@ -116,7 +116,7 @@ body{
     padding: 10px;
     border-radius: 5px;
     border: none;
-    margin-top: 25px;
+    margin-top: 20px;
     background-color: #3d8168;
     color: white;
     display: flex;

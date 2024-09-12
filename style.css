@@ -34,7 +34,7 @@ body{
     /* align-items: center; */
     width:40%;
     min-width: 500px;
-    box-shadow: 1px 1px 5px;
+    /* box-shadow: 1px 1px 5px; */
     background-color: white;
     border-radius: 10px;
    /* padding: 15px; */
@@ -68,7 +68,9 @@ body{
     color: hsl(228, 12%, 48%);
     font-weight: 400;
     margin-top: 10px;
+    margin-bottom: 15px;
     margin-left: 10px;
+    
     
     
 }
@@ -76,11 +78,12 @@ body{
    
     width: 210px;
     margin-top: 10px;
+    margin-bottom: 15px;
     margin-left: 10px;
 }
 .para-two {
     /* width: 250px; */
-   
+   margin-bottom: 15px;
     margin-top: 10px;
     color: hsl(228, 12%, 48%);
     font-weight:400;
@@ -94,6 +97,7 @@ body{
 .content-three{
     display: flex;
     gap: 10px;
+    /* margin-bottom: 15px; */
    
 }
 .content-three h1{
